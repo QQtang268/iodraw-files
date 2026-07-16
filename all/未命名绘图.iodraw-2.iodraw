@@ -204,6 +204,9 @@
             <mxPoint x="493.95000000000005" y="82" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="0W8W3zhjyR-rbf_uGCt9-43" value="&lt;span style=&quot;text-align: left;&quot;&gt;刻意伤害检视&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="391" y="90" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
