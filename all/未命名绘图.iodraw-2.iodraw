@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="0W8W3zhjyR-rbf_uGCt9-1" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="300" y="30" width="55" height="34" as="geometry" />
+          <mxGeometry x="270" y="20" width="55" height="34" as="geometry" />
         </mxCell>
         <mxCell id="0W8W3zhjyR-rbf_uGCt9-3" value="是否故意要造成不好的结果？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="20" y="1030" width="258" height="258" as="geometry" />
@@ -193,7 +193,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0W8W3zhjyR-rbf_uGCt9-38" value="该行为是否为蓄意？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="237.5" y="100" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
