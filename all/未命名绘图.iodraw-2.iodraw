@@ -46,14 +46,6 @@
         <mxCell id="0W8W3zhjyR-rbf_uGCt9-16" value="是否采取任何补救措施或可避免发生的状况？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="860" y="2371" width="258" height="258" as="geometry" />
         </mxCell>
-        <mxCell id="0W8W3zhjyR-rbf_uGCt9-18" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.66;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="0W8W3zhjyR-rbf_uGCt9-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="149" y="332" />
-            </Array>
-            <mxPoint x="471.3939393939395" y="223.89393939393938" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="0W8W3zhjyR-rbf_uGCt9-19" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.82;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -73,14 +65,6 @@
             <Array as="points">
               <mxPoint x="305" y="1325" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0W8W3zhjyR-rbf_uGCt9-22" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.78;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="0W8W3zhjyR-rbf_uGCt9-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="451" y="663" />
-            </Array>
-            <mxPoint x="667.3076923076922" y="544.3076923076924" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0W8W3zhjyR-rbf_uGCt9-23" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="0W8W3zhjyR-rbf_uGCt9-7">
