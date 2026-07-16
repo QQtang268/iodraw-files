@@ -10,9 +10,6 @@
         <mxCell id="0W8W3zhjyR-rbf_uGCt9-3" value="是否故意要造成不好的结果？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="20" y="1030" width="258" height="258" as="geometry" />
         </mxCell>
-        <mxCell id="0W8W3zhjyR-rbf_uGCt9-4" value="是否有健康上的问题或药物滥用的情形？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="621" y="369" width="258" height="258" as="geometry" />
-        </mxCell>
         <mxCell id="0W8W3zhjyR-rbf_uGCt9-5" value="送监督办奖惩委员会、考虑停职、调职或转介职业健康评估" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="23" y="1457" width="252" height="84" as="geometry" />
         </mxCell>
@@ -57,12 +54,13 @@
             <mxPoint x="471.3939393939395" y="223.89393939393938" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0W8W3zhjyR-rbf_uGCt9-19" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.82;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="0W8W3zhjyR-rbf_uGCt9-4">
+        <mxCell id="0W8W3zhjyR-rbf_uGCt9-19" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.82;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="750" y="332" />
             </Array>
             <mxPoint x="603.3414634146341" y="238.15853658536582" as="sourcePoint" />
+            <mxPoint x="750" y="369" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0W8W3zhjyR-rbf_uGCt9-20" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="0W8W3zhjyR-rbf_uGCt9-3" target="0W8W3zhjyR-rbf_uGCt9-5">
@@ -77,18 +75,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0W8W3zhjyR-rbf_uGCt9-22" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.78;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="0W8W3zhjyR-rbf_uGCt9-4" target="0W8W3zhjyR-rbf_uGCt9-6">
+        <mxCell id="0W8W3zhjyR-rbf_uGCt9-22" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.78;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="0W8W3zhjyR-rbf_uGCt9-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="451" y="663" />
             </Array>
+            <mxPoint x="667.3076923076922" y="544.3076923076924" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0W8W3zhjyR-rbf_uGCt9-23" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="0W8W3zhjyR-rbf_uGCt9-4" target="0W8W3zhjyR-rbf_uGCt9-7">
+        <mxCell id="0W8W3zhjyR-rbf_uGCt9-23" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="0W8W3zhjyR-rbf_uGCt9-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="832" y="663" />
             </Array>
+            <mxPoint x="793" y="584" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0W8W3zhjyR-rbf_uGCt9-24" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.18;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="0W8W3zhjyR-rbf_uGCt9-7" target="0W8W3zhjyR-rbf_uGCt9-8">
@@ -192,7 +192,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0W8W3zhjyR-rbf_uGCt9-38" value="该行为是否为蓄意？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0W8W3zhjyR-rbf_uGCt9-38" value="&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-width: normal; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;&quot;&gt;该行为是否力蓄意&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="140" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0W8W3zhjyR-rbf_uGCt9-41" value="&lt;span style=&quot;text-align: left;&quot;&gt;刻意伤害检视&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
