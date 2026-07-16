@@ -193,7 +193,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0W8W3zhjyR-rbf_uGCt9-38" value="该行为是否为蓄意？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="130" width="120" height="40" as="geometry" />
+          <mxGeometry x="190" y="140" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0W8W3zhjyR-rbf_uGCt9-41" value="&lt;span style=&quot;text-align: left;&quot;&gt;刻意伤害检视&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="70" width="120" height="40" as="geometry" />
