@@ -16,9 +16,6 @@
         <mxCell id="0W8W3zhjyR-rbf_uGCt9-6" value="考虑调整职务、转介职业健康评估或离职" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="325" y="1466" width="252" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="0W8W3zhjyR-rbf_uGCt9-7" value="行为是否偏离已有的安全规范或标准作业程序？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="703" y="700" width="258" height="258" as="geometry" />
-        </mxCell>
         <mxCell id="0W8W3zhjyR-rbf_uGCt9-8" value="是否存在已知的疾病？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="621" y="1055" width="209" height="209" as="geometry" />
         </mxCell>
@@ -58,26 +55,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0W8W3zhjyR-rbf_uGCt9-23" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="0W8W3zhjyR-rbf_uGCt9-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="832" y="663" />
-            </Array>
-            <mxPoint x="793" y="584" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0W8W3zhjyR-rbf_uGCt9-24" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.18;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="0W8W3zhjyR-rbf_uGCt9-7" target="0W8W3zhjyR-rbf_uGCt9-8">
+        <mxCell id="0W8W3zhjyR-rbf_uGCt9-24" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.18;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="0W8W3zhjyR-rbf_uGCt9-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="725" y="994" />
             </Array>
+            <mxPoint x="781.6585365853659" y="907.6585365853657" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0W8W3zhjyR-rbf_uGCt9-25" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.72;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="0W8W3zhjyR-rbf_uGCt9-7" target="0W8W3zhjyR-rbf_uGCt9-9">
+        <mxCell id="0W8W3zhjyR-rbf_uGCt9-25" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.72;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="0W8W3zhjyR-rbf_uGCt9-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1210" y="994" />
             </Array>
+            <mxPoint x="921.5833333333333" y="868.416666666667" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0W8W3zhjyR-rbf_uGCt9-26" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.13;exitY=1;entryX=0.61;entryY=0;rounded=0;" edge="1" parent="1" source="0W8W3zhjyR-rbf_uGCt9-8" target="0W8W3zhjyR-rbf_uGCt9-6">
