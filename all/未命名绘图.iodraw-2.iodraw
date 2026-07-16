@@ -49,12 +49,6 @@
         <mxCell id="0W8W3zhjyR-rbf_uGCt9-16" value="是否采取任何补救措施或可避免发生的状况？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="860" y="2371" width="258" height="258" as="geometry" />
         </mxCell>
-        <mxCell id="0W8W3zhjyR-rbf_uGCt9-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="0W8W3zhjyR-rbf_uGCt9-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="544.5" y="104" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="0W8W3zhjyR-rbf_uGCt9-18" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.66;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="0W8W3zhjyR-rbf_uGCt9-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -199,7 +193,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0W8W3zhjyR-rbf_uGCt9-38" value="该行为是否为蓄意？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="483.5" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
