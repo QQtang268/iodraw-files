@@ -16,9 +16,6 @@
         <mxCell id="0W8W3zhjyR-rbf_uGCt9-12" value="是否有证据显示采取了不被接受的危险行为？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="737" y="2040" width="258" height="258" as="geometry" />
         </mxCell>
-        <mxCell id="0W8W3zhjyR-rbf_uGCt9-14" value="考虑加强训练、改善督导程度、或适当调整职务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="435" y="2136" width="252" height="66" as="geometry" />
-        </mxCell>
         <mxCell id="0W8W3zhjyR-rbf_uGCt9-15" value="送监督办奖惩委员会、停职、适当调整职务或转介职业健康评估" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="741" y="2702" width="252" height="84" as="geometry" />
         </mxCell>
@@ -38,15 +35,6 @@
             <Array as="points">
               <mxPoint x="1225" y="2004" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0W8W3zhjyR-rbf_uGCt9-31" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.82;entryX=0.88;entryY=0;rounded=0;" edge="1" parent="1" target="0W8W3zhjyR-rbf_uGCt9-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1036" y="1673" />
-              <mxPoint x="1036" y="2004" />
-            </Array>
-            <mxPoint x="849.1463414634145" y="1552.8536585365855" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0W8W3zhjyR-rbf_uGCt9-33" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.96;exitY=1;entryX=0.39;entryY=0;rounded=0;" edge="1" parent="1" target="0W8W3zhjyR-rbf_uGCt9-12">
