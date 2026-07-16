@@ -196,7 +196,7 @@
           <mxGeometry x="230" y="130" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0W8W3zhjyR-rbf_uGCt9-40" value="&lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica&quot;&gt;刻意伤害检视&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="110" width="110" height="40" as="geometry" />
+          <mxGeometry x="230" y="80" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
